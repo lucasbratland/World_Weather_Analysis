@@ -8,4 +8,4 @@ APIs: Google, Openweather
 
 ## Results
 ### There were three deliverables for this module. 
-- Retrieve Weather Data located in the Weather_Database folder[a relative link](Weather_Database/)
+- Retrieve Weather Data located in the [Weather_Database folder](Weather_Database/)
